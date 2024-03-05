@@ -1,0 +1,63 @@
+a{
+    text-decoration: none;
+    color: black;
+  }
+
+
+  header{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 100px;
+    color: black;
+    align-items: center;
+  }
+
+
+a:hover{
+       text-decoration:underline;
+       color: blue;
+}
+
+#text{
+    padding-left:200px;
+    padding-top: 150px;
+    padding-right: 70px;
+}
+
+h1{
+    margin-bottom: 7px;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+
+}
+#image{
+    padding-right: 300px;
+    padding-top: 60px;
+    margin: 10px;
+}
+
+h3{
+    margin-right: 50px; ;
+}
+
+button{
+    background-color: orange;
+    transition: all 1s ;
+    
+}
+
+
+
+button:hover{
+    background-color:grey;
+    color: black;
+    border-radius: 20pc;
+}
+
+#icon{
+    padding-left: 600px;
+    padding-top: 30px;
+}
